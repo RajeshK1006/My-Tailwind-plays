@@ -2,6 +2,11 @@
 
 This project consists of a **flexbox-based layout** with two video sections and a **heading** with a gradient background. The layout uses **Tailwind CSS** for styling.
 
+
+![image](https://github.com/user-attachments/assets/b7dd4082-9521-40a2-a3a3-95911da7b18a)
+
+
+
 ## **Explanation of Classes Used in Tailwind CSS**
 
 ### 1. `bg-purple-200`
