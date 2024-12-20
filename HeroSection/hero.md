@@ -1,4 +1,4 @@
-# **Hi!! this is me documenting my web dev joourney.. Come, lets make a hero section!!!**
+# **Hi!! this is me documenting my web dev journey.. Come, lets make a hero section!!!**
 
 This project consists of a **flexbox-based layout** with two video sections and a **heading** with a gradient background. The layout uses **Tailwind CSS** for styling.
 
